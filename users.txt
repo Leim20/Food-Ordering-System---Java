@@ -1,0 +1,7 @@
+John Doe,CU001,customer1,password123,customer
+Jane Smith,CU002,customer2,password123,customer
+Mario Rossi,VE001,vendor1,password123,vendor
+Liu Wei,VE002,vendor2,password123,vendor
+Ahmed Hassan,VE003,vendor3,password123,vendor
+Mike Johnson,DR001,runner1,password123,runner
+Sarah Wilson,DR002,runner2,password123,runner

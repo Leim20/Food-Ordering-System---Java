@@ -1,0 +1,4 @@
+N0001,C001,Order ORD1001 has been completed successfully!,ORDER,2024-01-15T12:00:00,false
+N0002,1,New order received: ORD1004,ORDER,2024-01-15T11:30:00,false
+N0003,R001,New delivery task assigned: ORD1001,DELIVERY,2024-01-15T10:45:00,true
+N0004,C001,Payment of RM 30.00 deducted for order ORD1001. Remaining balance: RM 70.00,PAYMENT,2024-01-15T10:30:00,false

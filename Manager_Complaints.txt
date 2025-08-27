@@ -1,0 +1,6 @@
+1,U1,Jun,F1,Coke,V2,Weijun,R3,Tishen,coke no have sugar,C1001,Ali,solved
+2,U2,Sarah,F2,Burger,V5,KFC,R8,Ronald,burger was cold,C1002,Omar,solved
+3,U3,David,F3,Pizza,V7,Domino,R6,Sam,pizza was burnt,C1003,Aisha,solved
+4,U4,Emily,F4,Fries,V3,McDonalds,R9,John,fries were soggy,C1004,Ahmed,solved
+5,U5,Michael,F5,Sandwich,V9,Subway,R12,Jacob,sandwich had no sauce,C1005,Ahmed,not solved
+

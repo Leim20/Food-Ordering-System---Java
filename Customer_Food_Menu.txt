@@ -1,0 +1,4 @@
+V001,WJUN,F1,Chicken,15,5 star
+V001,WJUN,F2,Burger,10,4 star
+V002,FastBites,F3,Pizza,20,5 star
+V002,FastBites,F4,Sushi,25,4.5 star

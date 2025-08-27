@@ -1,0 +1,6 @@
+Vendor ID,Vendor,Food ID,Food Name,Price,Description
+V2,KFC,F4,Zinger Burger,6.49,Spicy crispy chicken fillet with lettuce and mayo
+V2,KFC,F5,Popcorn Chicken,4.99,Bite-sized crispy chicken pieces
+V2,KFC,F6,Mashed Potatoes,2.79,Mashed potatoes with signature gravy
+V3,Subway,F7,Turkey Sub,6.99,Turkey breast sandwich with fresh veggies
+V3,Subway,F8,Italian BMT,7.49,Pepperoni, salami, and ham with cheese

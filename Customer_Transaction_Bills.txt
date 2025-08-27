@@ -1,0 +1,2 @@
+C001,Jun,F1,Chicken,15,5
+C001,Jun,F2,Burger,10,5

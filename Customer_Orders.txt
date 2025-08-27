@@ -1,0 +1,2 @@
+F1,Chicken,C001,Jun,V001,WJUN,15,5,Arrived
+F2,Burger,C001,Jun,V001,WJUN,10,5,Arrived

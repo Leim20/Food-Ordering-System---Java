@@ -1,0 +1,15 @@
+F001,1,Nasi Lemak,Traditional Malaysian dish with coconut rice,12.50,Main Course,true
+F002,1,Rendang Chicken,Spicy coconut curry chicken,15.90,Main Course,true
+F003,1,Teh Tarik,Traditional pulled tea,3.50,Drinks,true
+F004,2,Char Kuey Teow,Stir-fried rice noodles,11.00,Main Course,true
+F005,2,Wan Tan Mee,Wonton noodles,9.50,Main Course,true
+F006,2,Chinese Tea,Traditional Chinese tea,2.00,Drinks,true
+F007,3,Chicken Rice,Hainanese chicken rice,10.50,Main Course,true
+F008,3,Wonton Soup,Clear soup with wontons,8.00,Appetizers,true
+F009,3,Barley Drink,Sweet barley water,3.00,Drinks,true
+F010,4,Roti Canai,Indian flatbread with curry,6.50,Appetizers,true
+F011,4,Murtabak,Stuffed pancake,12.00,Main Course,true
+F012,4,Teh Tarik Special,Premium pulled tea,4.50,Drinks,true
+F013,5,Fried Rice,Special fried rice,8.50,Main Course,true
+F014,5,Tom Yam Soup,Spicy Thai soup,9.00,Appetizers,true
+F015,5,Thai Iced Tea,Sweet Thai tea,4.00,Drinks,true
